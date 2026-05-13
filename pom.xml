@@ -7,6 +7,8 @@
     <modules>
         <module>bank-ejb</module>
         <module>bank-client</module>
+        <module>bank-web</module>
+        <module>bank-ear</module>
     </modules>
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
