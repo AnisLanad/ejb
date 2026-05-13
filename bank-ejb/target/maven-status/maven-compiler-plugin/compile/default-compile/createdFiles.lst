@@ -1,0 +1,10 @@
+bank/entities/CompteEpargne.class
+bank/entities/CompteCourant.class
+bank/entities/Operation.class
+bank/ejb/BanqueEJB.class
+bank/entities/Versement.class
+bank/interfaces/BanqueLocal.class
+bank/entities/Compte.class
+bank/interfaces/BanqueRemote.class
+bank/entities/Retrait.class
+bank/entities/Client.class

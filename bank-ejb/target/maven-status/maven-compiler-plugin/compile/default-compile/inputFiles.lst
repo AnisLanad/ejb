@@ -1,0 +1,10 @@
+/Users/anislanad/Active/serveurs/bank-system/bank-ejb/src/main/java/bank/ejb/BanqueEJB.java
+/Users/anislanad/Active/serveurs/bank-system/bank-ejb/src/main/java/bank/entities/Client.java
+/Users/anislanad/Active/serveurs/bank-system/bank-ejb/src/main/java/bank/entities/Compte.java
+/Users/anislanad/Active/serveurs/bank-system/bank-ejb/src/main/java/bank/entities/CompteCourant.java
+/Users/anislanad/Active/serveurs/bank-system/bank-ejb/src/main/java/bank/entities/CompteEpargne.java
+/Users/anislanad/Active/serveurs/bank-system/bank-ejb/src/main/java/bank/entities/Operation.java
+/Users/anislanad/Active/serveurs/bank-system/bank-ejb/src/main/java/bank/entities/Retrait.java
+/Users/anislanad/Active/serveurs/bank-system/bank-ejb/src/main/java/bank/entities/Versement.java
+/Users/anislanad/Active/serveurs/bank-system/bank-ejb/src/main/java/bank/interfaces/BanqueLocal.java
+/Users/anislanad/Active/serveurs/bank-system/bank-ejb/src/main/java/bank/interfaces/BanqueRemote.java
